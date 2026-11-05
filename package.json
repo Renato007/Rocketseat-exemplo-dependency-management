@@ -6,6 +6,6 @@
   "scripts": {},
   "license": "ISC",
   "dependencies": {
-    "express": "^5.0.1"
+    "express": "^3.21.2"
   }
 }
